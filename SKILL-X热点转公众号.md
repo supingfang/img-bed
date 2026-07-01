@@ -37,6 +37,12 @@
 > (AI OR 人工智能 OR 大模型 OR OpenAI OR Claude OR Qwen) lang:zh min_faves:800 since:昨天 until:今天
 >
 > > 注意：中文圈 min_faves 常不严格生效、绝对互动量远低于英文圈，属正常现象。
+> > 
+> > 补充（拓宽口径，避免全是大模型）：搜索时不要只盯着 LLM / 大模型厂商，要主动覆盖多个 AI 领域——AI 芯片与算力 / 数据中心、机器人与具身智能、自动驾驶、AI 视频 / 图像生成、AI 投资与商业化、AI 政策与监管、AI 对创作 / 就业的影响等。若发现结果集中在某一两家大模型公司，应换用下面的宽口径语法再搜一轮，取更均衡的 Top 10。
+> >
+> > 宽口径英文语法示例：`(Nvidia OR TSMC OR "AI chip" OR datacenter OR robot OR humanoid OR Tesla OR Waymo OR "self-driving" OR agent OR "AI video") min_faves:5000 since:昨天 until:今天 -Claude -Anthropic`
+> >
+> > 注意：宽口径关键词（agent、figure、robot 等）容易命中体育 / 游戏 / 无关内容，需人工过滤掉噪音后再排序。
 > >
 > > ---
 > >
